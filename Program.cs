@@ -5,7 +5,7 @@ int a = 54;
 int b = 17;
 
 
-static int AddTwoNumbers(int A, int B)
+int AddTwoNumbers(int A, int B)
 {
     return A + B;
 }
