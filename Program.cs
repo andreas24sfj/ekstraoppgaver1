@@ -44,7 +44,7 @@ Dictionary<string, int> myDictionary = new Dictionary<string , int>()
 KeyValuePair<string, int> harald = new KeyValuePair<string, int>("Harald", 35);
 KeyValuePair<string, int> eva = new KeyValuePair<string, int>("Eva", 50);
 KeyValuePair<string, int> håkon = new KeyValuePair<string, int>("Håkon", 80);
-KeyValuePair<string, int> dudleif = new KeyValuePair<string, int>("dudleif", 108);y
+KeyValuePair<string, int> dudleif = new KeyValuePair<string, int>("dudleif", 108);
 //legger til entries til mydictionary, navn inn som key og alder inn som value
 myDictionary.Add(harald.Key, harald.Value);
 myDictionary.Add(eva.Key, eva.Value);
